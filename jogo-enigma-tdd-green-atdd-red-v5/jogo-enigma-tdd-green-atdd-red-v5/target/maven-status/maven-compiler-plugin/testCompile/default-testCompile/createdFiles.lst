@@ -1,0 +1,3 @@
+br\edu\exemplo\jogoenigma\acceptance\JogoStepDefinitions.class
+br\edu\exemplo\jogoenigma\acceptance\RunCucumberTest.class
+br\edu\exemplo\jogoenigma\domain\JogoTest.class

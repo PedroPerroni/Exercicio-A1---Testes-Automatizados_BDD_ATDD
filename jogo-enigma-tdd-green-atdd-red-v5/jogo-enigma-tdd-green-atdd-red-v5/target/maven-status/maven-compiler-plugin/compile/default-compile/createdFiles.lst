@@ -1,0 +1,5 @@
+br\edu\exemplo\jogoenigma\domain\Jogo.class
+br\edu\exemplo\jogoenigma\domain\ModeloIA.class
+br\edu\exemplo\jogoenigma\domain\Participante.class
+br\edu\exemplo\jogoenigma\domain\Resultado.class
+br\edu\exemplo\jogoenigma\JogoEnigmaApplication.class
